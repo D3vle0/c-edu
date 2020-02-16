@@ -1,0 +1,7 @@
+@font-face { font-family: Noto; src: url('./NotoSansCJKkr-Regular.otf'); } 
+@font-face { font-family: NotoBold; src: url('./NotoSansCJKkr-Bold.otf'); } 
+
+
+#title1 {
+    font-family: 'Noto', sans-serif;
+}
